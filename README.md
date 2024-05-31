@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😊, My name is Gean Salcedo</h1>
+<h1 align="center">Hi 😊, My Name is Gean Salcedo</h1>
 <h3 align="center">I'm a software student in Peru</h3>
 
 - I’m currently studying on **IDAT**🏫
