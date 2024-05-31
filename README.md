@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 😊, My name is Gean Salcedo</h1>
+<h3 align="center">I'm a software student in Peru</h3>
 
-<!--
-**geanAMSO/geanAMSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently studying on **IDAT**🏫
 
-Here are some ideas to get you started:
+- Ask me about **PYTHON**❔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- You can count on me **gsalcedoortiz@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gean-salcedo-ortiz-674456272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eberttc" height="30" width="40" /></a>
+</p>
